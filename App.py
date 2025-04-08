@@ -2,6 +2,7 @@ import customtkinter
 from Controller import *
 from numpy import zeros, float64, clip
 from PIL import Image
+import os
 
 WINDOW_WIDTH = 1000
 WINDOW_HEIGHT = 600
